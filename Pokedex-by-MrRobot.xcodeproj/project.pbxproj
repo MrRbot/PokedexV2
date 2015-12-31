@@ -12,6 +12,7 @@
 		3B98EC6A1C33C8DE00696FF3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3B98EC681C33C8DE00696FF3 /* Main.storyboard */; };
 		3B98EC6C1C33C8DE00696FF3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3B98EC6B1C33C8DE00696FF3 /* Assets.xcassets */; };
 		3B98EC6F1C33C8DE00696FF3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3B98EC6D1C33C8DE00696FF3 /* LaunchScreen.storyboard */; };
+		3BE4CEE91C34C51B0018D8F4 /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = 3BE4CEE81C34C51B0018D8F4 /* pokemon.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		3B98EC6B1C33C8DE00696FF3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3B98EC6E1C33C8DE00696FF3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3B98EC701C33C8DE00696FF3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3BE4CEE81C34C51B0018D8F4 /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				3B98EC641C33C8DE00696FF3 /* AppDelegate.swift */,
 				3B98EC661C33C8DE00696FF3 /* ViewController.swift */,
+				3BE4CEE81C34C51B0018D8F4 /* pokemon.csv */,
 				3B98EC681C33C8DE00696FF3 /* Main.storyboard */,
 				3B98EC6B1C33C8DE00696FF3 /* Assets.xcassets */,
 				3B98EC6D1C33C8DE00696FF3 /* LaunchScreen.storyboard */,
@@ -125,6 +128,7 @@
 			files = (
 				3B98EC6F1C33C8DE00696FF3 /* LaunchScreen.storyboard in Resources */,
 				3B98EC6C1C33C8DE00696FF3 /* Assets.xcassets in Resources */,
+				3BE4CEE91C34C51B0018D8F4 /* pokemon.csv in Resources */,
 				3B98EC6A1C33C8DE00696FF3 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -287,6 +291,7 @@
 				3B98EC751C33C8DE00696FF3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
